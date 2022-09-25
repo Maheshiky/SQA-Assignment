@@ -1,0 +1,9 @@
+sqa\pages\ReportsPage.class
+sqa\pages\TasksPage.class
+sqa\Utils\WebEventListener.class
+sqa\extentreportlistener\ExtentReporterNG.class
+sqa\base\TestBase.class
+sqa\pages\UsersPage.class
+sqa\Utils\TestUtil.class
+sqa\pages\HomePage.class
+sqa\pages\LoginPage.class
